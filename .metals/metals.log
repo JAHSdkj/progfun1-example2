@@ -1,0 +1,348 @@
+2024.09.26 16:03:52 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example' for client Visual Studio Code 1.93.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@16205fa6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2c6e7374]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@16205fa6]
+2024.09.26 16:03:52 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 16:03:54 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\MOOCSettings.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:04:09 INFO  running 'C:\Users\pedro.torres\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\PEDRO~1.TOR\AppData\Local\Temp\metals693792587955151168\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.09.26 16:04:09 ERROR [info] [launcher] getting org.scala-sbt sbt 1.8.2  (this may take some time)...
+2024.09.26 16:04:20 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\MOOCSettings.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:04:23 ERROR [info] [launcher] getting Scala 2.12.17 (for sbt)...
+2024.09.26 16:04:25 INFO  [info] welcome to sbt 1.8.2 (Eclipse Adoptium Java 17)
+2024.09.26 16:04:27 INFO  [info] loading settings for project example-build-build-build from metals.sbt ...
+2024.09.26 16:04:27 INFO  [info] loading project definition from C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\project\project
+2024.09.26 16:04:30 INFO  [info] loading settings for project example-build-build from metals.sbt ...
+2024.09.26 16:04:30 INFO  [info] loading project definition from C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\project
+2024.09.26 16:04:36 INFO  [success] Generated .bloop\example-build-build.json
+2024.09.26 16:04:36 INFO  [success] Total time: 5 s, completed 26 sept 2024 16:04:36
+2024.09.26 16:04:37 INFO  [info] loading settings for project example-build from buildSettings.sbt,metals.sbt,plugins.sbt ...
+2024.09.26 16:04:37 INFO  [info] loading project definition from C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project
+2024.09.26 16:04:43 INFO  [success] Generated .bloop\example-build.json
+2024.09.26 16:04:43 INFO  [info] compiling 3 Scala sources to C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\target\scala-2.12\sbt-1.0\classes ...
+2024.09.26 16:04:43 INFO  [info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.17. Compiling...
+2024.09.26 16:04:52 INFO  [info]   Compilation completed in 8.49s.
+2024.09.26 16:04:55 INFO  [info] done compiling
+2024.09.26 16:04:55 INFO  [success] Total time: 18 s, completed 26 sept 2024 16:04:55
+2024.09.26 16:04:57 INFO  [info] loading settings for project example from assignment.sbt,build.sbt ...
+2024.09.26 16:04:57 INFO  [info] set current project to progfun1-example (in build file:/C:/Users/pedro.torres/Documents/Curso%20Scala/progfun1-example/example/)
+2024.09.26 16:05:09 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\MOOCSettings.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:09 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:11 INFO  [success] Generated .bloop\example.json
+2024.09.26 16:05:11 INFO  [success] Generated .bloop\example-test.json
+2024.09.26 16:05:11 INFO  [success] Total time: 13 s, completed 26 sept 2024 16:05:11
+2024.09.26 16:05:12 INFO  time: ran 'sbt bloopInstall' in 1m2s
+2024.09.26 16:05:12 INFO  Attempting to connect to the build server...
+2024.09.26 16:05:12 INFO  Setting up current java home C:\Users\pedro.torres\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35 in C:\Users\pedro.torres\.bloop\bloop.json
+2024.09.26 16:05:15 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:17 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:17 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 16:05:31 INFO  time: Connected to build server in 19s
+2024.09.26 16:05:31 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.26 16:05:31 INFO  time: Imported build in 0.16s
+2024.09.26 16:05:31 INFO  running doctor check
+2024.09.26 16:05:31 INFO  java targets: example-test, example
+2024.09.26 16:05:31 WARN  3.3.0 is no longer supported in the current Metals versions, using the last known supported version 1.2.2
+2024.09.26 16:05:38 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 16:05:55 INFO  time: indexed workspace in 23s
+2024.09.26 16:05:55 WARN  no build target for: C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala
+2024.09.26 16:05:58 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:58 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:05:58 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\MOOCSettings.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:06:04 INFO  Shutting down server
+2024.09.26 16:06:04 INFO  shutting down Metals
+2024.09.26 16:06:04 INFO  Shut down connection with build server.
+2024.09.26 16:06:04 INFO  Exiting server
+2024.09.26 16:17:43 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example' for client Visual Studio Code 1.93.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5c5767f5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@26621b3c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5c5767f5]
+2024.09.26 16:17:43 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 16:17:45 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:17:45 INFO  Attempting to connect to the build server...
+2024.09.26 16:17:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 16:17:45 INFO  time: Connected to build server in 0.38s
+2024.09.26 16:17:45 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.26 16:17:46 INFO  time: Imported build in 0.18s
+2024.09.26 16:17:47 INFO  running doctor check
+2024.09.26 16:17:47 INFO  java targets: example-test, example
+2024.09.26 16:17:47 WARN  3.3.0 is no longer supported in the current Metals versions, using the last known supported version 1.2.2
+2024.09.26 16:17:52 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 16:17:52 INFO  time: indexed workspace in 6.57s
+2024.09.26 16:17:53 WARN  no build target for: C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala
+2024.09.26 16:17:53 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:17:53 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:17:55 INFO  time: code lens generation in 2.03s
+2024.09.26 16:17:55 INFO  time: code lens generation in 2.28s
+2024.09.26 16:18:05 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:19:43 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:19:52 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\project\CourseraStudent.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 16:19:53 INFO  compiling example (1 scala source)
+2024.09.26 16:19:57 INFO  time: compiled example in 4.33s
+2024.09.26 17:05:01 INFO  Shutting down server
+2024.09.26 17:05:01 INFO  shutting down Metals
+2024.09.26 17:05:01 INFO  Shut down connection with build server.
+2024.09.26 17:05:01 INFO  Exiting server
+2024.09.26 17:05:33 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example' for client Visual Studio Code 1.93.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5082b77d]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@127be8fa]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5082b77d]
+2024.09.26 17:05:33 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:05:34 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 17:05:37 INFO  running 'C:\Users\pedro.torres\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\PEDRO~1.TOR\AppData\Local\Temp\metals3193739431917918371\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.09.26 17:05:39 INFO  [info] welcome to sbt 1.10.2 (Eclipse Adoptium Java 17)
+2024.09.26 17:05:42 INFO  [info] loading settings for project progfun1-example-build-build from metals.sbt ...
+2024.09.26 17:05:42 INFO  [info] loading project definition from C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\project\project
+2024.09.26 17:05:45 INFO  [info] loading settings for project progfun1-example-build from metals.sbt ...
+2024.09.26 17:05:45 INFO  [info] loading project definition from C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\project
+2024.09.26 17:05:52 INFO  [success] Generated .bloop\progfun1-example-build.json
+2024.09.26 17:05:52 INFO  [success] Total time: 7 s, completed 26 sept 2024 17:05:52
+2024.09.26 17:05:52 INFO  [info] set current project to progfun1-example (in build file:/C:/Users/pedro.torres/Documents/Curso%20Scala/progfun1-example/)
+2024.09.26 17:05:53 INFO  [success] Generated .bloop\progfun1-example-test.json
+2024.09.26 17:05:53 INFO  [success] Generated .bloop\progfun1-example.json
+2024.09.26 17:05:53 INFO  [success] Total time: 0 s, completed 26 sept 2024 17:05:53
+2024.09.26 17:05:53 INFO  time: ran 'sbt bloopInstall' in 16s
+2024.09.26 17:05:53 INFO  Attempting to connect to the build server...
+2024.09.26 17:05:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:05:57 INFO  Attempting to connect to the build server...
+2024.09.26 17:05:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\project\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:05:57 INFO  time: Connected to build server in 3.44s
+2024.09.26 17:05:57 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.26 17:05:57 INFO  time: Imported build in 0.14s
+2024.09.26 17:05:57 INFO  running doctor check
+2024.09.26 17:05:57 INFO  java targets: progfun1-example-build, progfun1-example-test, progfun1-example
+2024.09.26 17:06:07 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:06:12 INFO  time: indexed workspace in 15s
+2024.09.26 17:06:12 WARN  no build target for: C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala
+2024.09.26 17:06:12 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:06:12 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:06:14 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-06-14-052.md
+2024.09.26 17:06:14 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:06:14 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-06-14-182.md
+2024.09.26 17:06:14 INFO  no build target found for C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:06:14 INFO  time: code lens generation in 1.24s
+sept 26, 2024 5:06:14 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\Curso Scala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-06-14-270.md
+2024.09.26 17:06:14 INFO  time: code lens generation in 1.87s
+2024.09.26 17:08:23 INFO  Shutting down server
+2024.09.26 17:08:23 INFO  shutting down Metals
+2024.09.26 17:08:23 INFO  Shut down connection with build server.
+2024.09.26 17:08:23 INFO  Shut down connection with build server.
+2024.09.26 17:08:23 INFO  Exiting server
+2024.09.26 17:10:07 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\pedro.torres\Documents\CursoScala\progfun1-example' for client Visual Studio Code 1.93.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@746601a9]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@16f71cff]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@746601a9]
+2024.09.26 17:10:08 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:10:08 INFO  Attempting to connect to the build server...
+2024.09.26 17:10:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:10:08 INFO  Attempting to connect to the build server...
+2024.09.26 17:10:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\project\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:10:08 INFO  time: Connected to build server in 0.43s
+2024.09.26 17:10:08 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.26 17:10:08 INFO  time: Imported build in 0.17s
+2024.09.26 17:10:09 INFO  running doctor check
+2024.09.26 17:10:09 INFO  java targets: progfun1-example-build, progfun1-example-test, progfun1-example
+2024.09.26 17:10:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:10:16 INFO  time: indexed workspace in 7.29s
+2024.09.26 17:11:56 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:11:56 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:11:58 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-11-58-087.md
+2024.09.26 17:11:58 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:11:58 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-11-58-186.md
+2024.09.26 17:11:58 INFO  time: code lens generation in 1.22s
+2024.09.26 17:12:19 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:19 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-19-535.md
+2024.09.26 17:12:22 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:22 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:22 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-22-685.md
+2024.09.26 17:12:23 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:24 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:23 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:24 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-24-433.md
+2024.09.26 17:12:24 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:26 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:30 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-30-712.md
+2024.09.26 17:12:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:31 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-31-300.md
+2024.09.26 17:12:31 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:34 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:45 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-45-255.md
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:45 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-45-698.md
+2024.09.26 17:12:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:47 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-47-349.md
+2024.09.26 17:12:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:47 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-47-659.md
+2024.09.26 17:12:48 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:12:50 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:12:50 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-12-50-973.md
+2024.09.26 17:13:12 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:13:12 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-13-12-178.md
+2024.09.26 17:13:19 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:13:20 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-13-20-022.md
+2024.09.26 17:13:20 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:20 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:20 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:13:20 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-13-20-892.md
+2024.09.26 17:13:20 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:20 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:13:21 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-13-21-396.md
+2024.09.26 17:13:21 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:23 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:28 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:30 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:31 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:31 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:13:32 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:13:32 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-13-32-082.md
+2024.09.26 17:14:33 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:14:33 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:14:33 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:14:34 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:14:34 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-14-34-927.md
+2024.09.26 17:14:36 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:14:40 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:14:40 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-14-40-404.md
+2024.09.26 17:15:32 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:32 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:52 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:15:54 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:01 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:02 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:02 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:04 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:04 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:04 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:04 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:03 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:06 WARN  no build target for: C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt
+2024.09.26 17:16:06 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:12 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:17 INFO  Shutting down server
+2024.09.26 17:16:17 INFO  shutting down Metals
+2024.09.26 17:16:17 INFO  Shut down connection with build server.
+2024.09.26 17:16:17 INFO  Shut down connection with build server.
+2024.09.26 17:16:17 INFO  Exiting server
+2024.09.26 17:16:38 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\pedro.torres\Documents\CursoScala\progfun1-example' for client Visual Studio Code 1.93.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@676c5de6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@3a2b8444]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@676c5de6]
+2024.09.26 17:16:38 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:16:38 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.26 17:16:39 INFO  Attempting to connect to the build server...
+2024.09.26 17:16:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:16:39 INFO  Attempting to connect to the build server...
+2024.09.26 17:16:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\project\.metals\bsp.trace.json or C:\Users\pedro.torres\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.26 17:16:39 INFO  time: Connected to build server in 0.37s
+2024.09.26 17:16:39 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.26 17:16:39 INFO  time: Imported build in 0.16s
+2024.09.26 17:16:39 INFO  running doctor check
+2024.09.26 17:16:39 INFO  java targets: progfun1-example-build, progfun1-example-test, progfun1-example
+2024.09.26 17:16:41 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.26 17:16:42 INFO  time: indexed workspace in 3.05s
+2024.09.26 17:16:43 WARN  no build target for: C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt
+2024.09.26 17:16:43 WARN  no build target for: C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala
+2024.09.26 17:16:43 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:43 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:16:44 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-16-44-412.md
+2024.09.26 17:16:44 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:16:44 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-16-44-509.md
+2024.09.26 17:16:44 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:16:44 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-16-44-581.md
+2024.09.26 17:16:44 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\build.sbt. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:16:44 INFO  time: code lens generation in 1.56s
+2024.09.26 17:18:39 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:19:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:19:47 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:21:17 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:38 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:40 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:43 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:23:43 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-23-43-460.md
+2024.09.26 17:23:43 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:43 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:44 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:23:44 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-23-44-749.md
+2024.09.26 17:23:44 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:45 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:46 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:48 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:48 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:23:48 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-23-48-726.md
+2024.09.26 17:23:48 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:48 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:49 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:23:49 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-23-49-145.md
+2024.09.26 17:23:50 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:54 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:23:59 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:23:59 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-23-59-356.md
+2024.09.26 17:24:01 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+sept 26, 2024 5:24:01 P. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\.metals\.reports\metals-full\2024-09-26\r_compiler-error_17-24-01-115.md
+2024.09.26 17:24:40 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:24:40 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:25:12 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.09.26 17:25:17 INFO  no build target found for C:\Users\pedro.torres\Documents\CursoScala\progfun1-example\example\src\main\scala\example\Lists.scala. Using presentation compiler with project's scala-library version: 2.12.19
